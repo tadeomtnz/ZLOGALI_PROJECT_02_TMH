@@ -1,0 +1,10 @@
+CLASS zbp_r_dt_inct_tmh DEFINITION
+PUBLIC
+ABSTRACT
+FINAL
+FOR BEHAVIOR OF
+zr_dt_inct_tmh.
+ENDCLASS.
+
+CLASS zbp_r_dt_inct_tmh IMPLEMENTATION.
+ENDCLASS.
